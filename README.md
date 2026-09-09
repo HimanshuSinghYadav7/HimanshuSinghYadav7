@@ -91,7 +91,7 @@ Yugen is a privacy-first, zero-account cryptocurrency intelligence dashboard del
 ## 🧠 MindPulse
 **AI-Powered Mental Health & Well-being Analyzer**
 
-MindPulse.AI is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
+MindPulse is an AI-powered platform that analyzes user emotions and mental well-being using machine learning and Google Gemini AI, offering personalized insights in a modern web application.
 
 ---
 
