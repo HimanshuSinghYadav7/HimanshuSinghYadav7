@@ -31,21 +31,21 @@ I believe in writing clean, maintainable code and bridging the gap between cutti
 ## 🚚 Vaelos
 **Zero-Dependency Fleet Operations Platform**
 
-TransitOps is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill. One Node.js process + one SQLite file, no Docker or build step required.
-
+Vaelos is a single-binary-grade web app for small transport businesses. Gives a fleet operations team the same workflows a 200-truck carrier would expect — dispatch, maintenance, fuel, expenses, ROI — without any SaaS lock-in or monthly bill.
+  
 ---
 
 ## ❤️ CorAI
 **Predictive Heart Healthcare System**
 
-CorAI is a machine learning-powered healthcare application that predicts the likelihood of heart disease based on patient medical parameters. It provides quick predictions through an intuitive web interface.
-
+CorAI is a machine learning-powered healthcare application and calibrated risk health insights that predicts the likelihood of heart disease based on patient medical parameters through an intuitive web interface.
+  
 ---
 
 ## ◬ Yugen
 **Institutional-Grade Crypto Market Intelligence Dashboard**
 
-Yugen is a privacy-first, zero-account cryptocurrency intelligence dashboard delivering real-time price, supply dynamics, and high-signal market metrics across 21 curated digital assets. Designed for clarity over market noise, it surfaces deep liquidity indicators and institutional-grade analytics in a clean, accessible interface.
+Yugen is a privacy-first, zero-account cryptocurrency market intelligence dashboard surfacing real-time price, supply dynamics, and high-signal market metrics across 21 curated digital assets. Designed for clarity over market noise, so Read the depth, not the noise.
 
 ---
 
@@ -85,7 +85,7 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshimanshu666@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=itshimanshu666@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-singh-yadav-57144a2b7)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamhimanshu2312)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshusinghyadav.vercel.app/)
