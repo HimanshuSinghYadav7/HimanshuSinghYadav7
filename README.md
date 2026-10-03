@@ -69,11 +69,7 @@ VoiceFlow is an intelligent voice assistant that enables users to interact with 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-![](https://github-readme-stats.vercel.app/api?username=HimanshuSinghYadav7&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuSinghYadav7&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuSinghYadav7&layout=compact&theme=tokyonight&hide_border=true)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HimanshuSinghYadav7&color=blueviolet)](https://github.com/HimanshuSinghYadav7)
 
